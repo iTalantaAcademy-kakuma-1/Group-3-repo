@@ -9,3 +9,9 @@
 <!--Image-->
 
 ![HOME](home-page%20design.png)
+
+# Features design
+
+<!--image-->
+
+![features](features%20design.png)
