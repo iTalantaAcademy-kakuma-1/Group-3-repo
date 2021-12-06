@@ -73,4 +73,4 @@ add the icon to represent projects.
 - **HTML**: use HTML to add Heading 3 of the DOCS, Use HTML to add a paragraph
   describing the type of documentations we use.
 
-- **CSS** : use CSS to center the Heading 3.
+- **CSS** : use CSS to center the Heading 3
