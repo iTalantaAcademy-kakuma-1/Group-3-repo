@@ -1,34 +1,31 @@
 # Must have
 
-1. I as a owner, would like to see the title of the website so that the visitors
-   of the website can easily identify it.
+1. I as the owner,would like to see the tittle of the website.
 
-2. I as a owner, would like to see a short description of the company on the
-   website so that my clients can know what the company offers.
+2. I as the owner, would like to see a short description of the company on the
+   website.
 
-3. I as a owner, would like to be able to Log into the website so that i can
-   submit my feedback.
+3. I as the owner, would like to collect feedbacks from my regular clients who
+   are using the website.
 
-4. I as a owner, would like to see description of paragraph well centered so
-   that I can read easily
+4. I as the owner would like to see supported languages displayed on the
+   website.
 
-5. I as a owner, would like to see icons of programming languages so that I can
-   have hint about them.
+5. I as the owner, would like to communicate using social media platforms
 
-6. I as a owner, would like to communicate using social media platforms so as to
-   ease the means of communication.
+6. I as the owner would like my clients to see the statistics of the deployments
+   that are done by the company.
+
+7. I as the owner would like my clients to see the statistics of the deployments
+   that are done by the company
 
 ## Should have
 
-1. I as a owner,would like to see the display of the contact page so that i
-   communicate to you incase i have any query.
+1. I as the owner would like to see a statement at the bottom of the website.
 
-2. I as a owner, would like to be able to get a link from the website.
+2. I as the owner, would like to see a description extreme Cloud Hosting.
 
-3. I as a owner, would like to see services offered.
+3. I as the owner, would like to see distinctive features of my company on the
+   website.
 
-4. I as a owner, would like to see new updates or items added on the website so
-   as to be aware of those updates and items.
-
-5. I as a owner, would like to see publications on the website so that I can
-   make easy reference from the published articles.
+4. I as the owner would like to see documentations of the company.
